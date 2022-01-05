@@ -6,11 +6,6 @@
 
 ### 😐
 
- 🔭 I’m currently working on A student
-- 🌱 I’m currently learning School
-- 💬 Ask me about Directing technology against injustice
-- 📫 How to reach me:errorforyou4@gmail.com
-- 😄 Pronouns: Error
 
 ### <h4>Progamming Language A Have Studied</h4>
 
