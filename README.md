@@ -35,13 +35,13 @@
   
 ### KNOW MORE ABOUT ME>>>>
 <p align="center">
-<a href="https://github.com/Error-For-You"><img title="HESHAN SANKALPA" src="https://github-readme-stats.vercel.app/api?username=Error-For-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/Error-For-You"><img title="Error-For-You" src="https://github-readme-stats.vercel.app/api?username=Error-For-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <a href="https://github.com/Error-For-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/heshan-TMD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Heshan Sankalpa-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
