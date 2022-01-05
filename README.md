@@ -22,7 +22,7 @@
 
 
 
-<p align="center"><img src="error.gif" height=200 width=1000 alt="Bt">
+<p align="center"><img src="error.gif" height=200 width=500 alt="Bt">
   </p>
   
 ### 😐
