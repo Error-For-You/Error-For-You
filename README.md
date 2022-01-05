@@ -40,8 +40,8 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/Error-For-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/UCfjJgu6-VQPvcgRaygLyhqQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
