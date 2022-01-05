@@ -17,7 +17,7 @@
 
 
 
-<p align="center"><img src="error.gif" height=250 width=600 alt="Bt">
+<p align="center"><a href="https://github.com/Error-For-You"><img src="error.gif" height=250 width=600 alt="Bt">
   </p>
   
 ### 😐
