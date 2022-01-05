@@ -49,3 +49,6 @@
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
