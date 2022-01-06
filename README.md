@@ -56,7 +56,7 @@
 <a href="https://github.com/Error-For-You/My-DATA"><img title="My-DATA" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=My-DATA&theme=highcontrast"></a>
 <a href="https://github.com/Error-For-You/Kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Kalimux&theme=highcontrast"></a>
 <a href="https://github.com/Error-For-You/Cam-Hacker"><img title="Cam-Hacker" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Cam-Hacker&theme=highcontrast"></a>
-<a href=https://github.com/Error-For-You/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Termux-Banner&theme=highcontrast"></a>
+<a href="https://github.com/Error-For-You/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Termux-Banner&theme=highcontrast"></a>
 </p>
 
 
