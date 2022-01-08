@@ -28,7 +28,7 @@
 </p>
 
   
-<p align="center"><img src=".gif" alt="Bt">
+<p align="center"><img src="anonymous-hacker.gif" alt="Bt">
 </p>
 
 ### 😐
