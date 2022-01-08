@@ -44,7 +44,9 @@
 </p>
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-For-You&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-For-You&theme=dark)](https://git.io/streak-stats) 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=Error-For-You&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/Error-For-You "Stats")
+
 
 </p>
 
