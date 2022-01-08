@@ -42,6 +42,11 @@
 <a href="https://github.com/Error-For-You"><img title="Error-For-You" src="https://github-readme-stats.vercel.app/api?username=Error-For-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <a href="https://github.com/Error-For-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-For-You&theme=dark)](https://git.io/streak-stats)
+
+</p>
 
 <p align="center">
 <a href="https://github.com/Error-For-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
